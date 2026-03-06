@@ -1,0 +1,13 @@
+[package]
+name = "tokio-meetup"
+license = "MIT OR Apache-2.0"
+authors = ["firesz <contact@firesz.eu>"]
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+futures = "0.3.32"
+tokio = { version = "1.49.0", features = ["full"] }
+
+[features]
+default = []
