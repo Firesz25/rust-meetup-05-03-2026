@@ -1,4 +1,4 @@
-# RUst Meetup: [Async Rust Presentation](https://www.youtube.com/watch?v=g7p0iSPALK4)
+# Rust Meetup: [Async Rust Presentation](https://www.youtube.com/watch?v=g7p0iSPALK4)
 
 This repository contains the code examples and materials for a presentation on **Asynchronous Rust** and the **Tokio** runtime. It demonstrates how to write, understand, and spawn asynchronous tasks using Rust's `async`/`await` syntax and the Tokio ecosystem.
 
